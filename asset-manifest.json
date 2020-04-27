@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.aa5150f3.chunk.css",
-    "main.js": "/portfolio/static/js/main.f811190e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f811190e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.99fe31ad.chunk.css",
+    "main.js": "/portfolio/static/js/main.ad2e0a3b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ad2e0a3b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.2023ab3a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.2023ab3a.js.map",
     "static/css/2.69121389.chunk.css": "/portfolio/static/css/2.69121389.chunk.css",
-    "static/js/2.61c16764.chunk.js": "/portfolio/static/js/2.61c16764.chunk.js",
-    "static/js/2.61c16764.chunk.js.map": "/portfolio/static/js/2.61c16764.chunk.js.map",
+    "static/js/2.8e6f6928.chunk.js": "/portfolio/static/js/2.8e6f6928.chunk.js",
+    "static/js/2.8e6f6928.chunk.js.map": "/portfolio/static/js/2.8e6f6928.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.cf618d8accb49c81bb2175be3eb2f62b.js": "/portfolio/precache-manifest.cf618d8accb49c81bb2175be3eb2f62b.js",
+    "precache-manifest.108420cc4885c665ac5bd7d981e4eed9.js": "/portfolio/precache-manifest.108420cc4885c665ac5bd7d981e4eed9.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/portfolio/static/css/2.69121389.chunk.css.map",
-    "static/css/main.aa5150f3.chunk.css.map": "/portfolio/static/css/main.aa5150f3.chunk.css.map",
-    "static/js/2.61c16764.chunk.js.LICENSE.txt": "/portfolio/static/js/2.61c16764.chunk.js.LICENSE.txt",
+    "static/css/main.99fe31ad.chunk.css.map": "/portfolio/static/css/main.99fe31ad.chunk.css.map",
+    "static/js/2.8e6f6928.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8e6f6928.chunk.js.LICENSE.txt",
     "static/media/Components.css": "/portfolio/static/media/work-img.f5e4f17c.jpeg",
     "static/media/js1.jpg": "/portfolio/static/media/js1.5198c249.jpg",
     "static/media/js2.jpg": "/portfolio/static/media/js2.c851f58a.jpg",
+    "static/media/product_landing_page.png": "/portfolio/static/media/product_landing_page.e19994ba.png",
     "static/media/react-step-form.png": "/portfolio/static/media/react-step-form.c98a3d4a.png",
     "static/media/reactjs1.png": "/portfolio/static/media/reactjs1.86b2f9d9.png",
     "static/media/reactjs2.png": "/portfolio/static/media/reactjs2.f1893f71.png"
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.2023ab3a.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.61c16764.chunk.js",
-    "static/css/main.aa5150f3.chunk.css",
-    "static/js/main.f811190e.chunk.js"
+    "static/js/2.8e6f6928.chunk.js",
+    "static/css/main.99fe31ad.chunk.css",
+    "static/js/main.ad2e0a3b.chunk.js"
   ]
 }
