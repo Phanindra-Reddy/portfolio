@@ -1,35 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d84e99119a384cc91e77e19f69da3ae9",
+    "revision": "540d08d928bd53bd6c6811fa1e1bc951",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "8fc4cf4e6b99b4e7b5e9",
+    "revision": "e3ff8bb6a34a6006950f",
     "url": "/portfolio/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "43cbe87b443da6abc7b2",
-    "url": "/portfolio/static/css/main.99fe31ad.chunk.css"
+    "revision": "cd844442fc047b24baff",
+    "url": "/portfolio/static/css/main.b3867222.chunk.css"
   },
   {
-    "revision": "8fc4cf4e6b99b4e7b5e9",
-    "url": "/portfolio/static/js/2.2c0f6747.chunk.js"
+    "revision": "e3ff8bb6a34a6006950f",
+    "url": "/portfolio/static/js/2.451e8857.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/portfolio/static/js/2.2c0f6747.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.451e8857.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43cbe87b443da6abc7b2",
-    "url": "/portfolio/static/js/main.d103c9e1.chunk.js"
+    "revision": "cd844442fc047b24baff",
+    "url": "/portfolio/static/js/main.ae0f8ccc.chunk.js"
   },
   {
     "revision": "a1ac68da6391c638e792",
     "url": "/portfolio/static/js/runtime-main.2023ab3a.js"
   },
   {
+    "revision": "37aa312338dc431eefacd39f218905b2",
+    "url": "/portfolio/static/media/bookmarker.37aa3123.png"
+  },
+  {
+    "revision": "71e42b5a8d6c0d6628ec8840cc4030e9",
+    "url": "/portfolio/static/media/bootstrap.71e42b5a.svg"
+  },
+  {
+    "revision": "d3ad67fa720fd7aee8c322caff911082",
+    "url": "/portfolio/static/media/css-3.d3ad67fa.svg"
+  },
+  {
     "revision": "60f218f50ea203124348e5b7ff8e8570",
     "url": "/portfolio/static/media/home-logo.60f218f5.jpg"
+  },
+  {
+    "revision": "24845c5ca600cfab149e84387d826465",
+    "url": "/portfolio/static/media/html-5.24845c5c.svg"
+  },
+  {
+    "revision": "87711407412494d529d45ee76167583c",
+    "url": "/portfolio/static/media/javascript.87711407.svg"
   },
   {
     "revision": "5198c2493bc73f15630054848c80cbbc",
@@ -46,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c98a3d4aa6e0ac2b55c064fc91b36535",
     "url": "/portfolio/static/media/react-step-form.c98a3d4a.png"
+  },
+  {
+    "revision": "9a28da9f2a3fa419eb399e49f98cda39",
+    "url": "/portfolio/static/media/react.9a28da9f.svg"
   },
   {
     "revision": "86b2f9d9dd492adf523145aa4bc5203b",
