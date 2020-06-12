@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "540d08d928bd53bd6c6811fa1e1bc951",
+    "revision": "756424da859724163e3ed8e1d293cda7",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e3ff8bb6a34a6006950f",
+    "revision": "3b7fadbe2abef7a97f17",
     "url": "/portfolio/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "cd844442fc047b24baff",
-    "url": "/portfolio/static/css/main.b3867222.chunk.css"
+    "revision": "e494f6ce6ede36d64e5e",
+    "url": "/portfolio/static/css/main.692af412.chunk.css"
   },
   {
-    "revision": "e3ff8bb6a34a6006950f",
-    "url": "/portfolio/static/js/2.451e8857.chunk.js"
+    "revision": "3b7fadbe2abef7a97f17",
+    "url": "/portfolio/static/js/2.53cfe2b8.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/portfolio/static/js/2.451e8857.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.53cfe2b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd844442fc047b24baff",
-    "url": "/portfolio/static/js/main.ae0f8ccc.chunk.js"
+    "revision": "e494f6ce6ede36d64e5e",
+    "url": "/portfolio/static/js/main.8f81b5b4.chunk.js"
   },
   {
     "revision": "a1ac68da6391c638e792",
     "url": "/portfolio/static/js/runtime-main.2023ab3a.js"
+  },
+  {
+    "revision": "f2f231b39e648d7db773fe8c02e87132",
+    "url": "/portfolio/static/media/HTML and CSS.f2f231b3.pdf"
+  },
+  {
+    "revision": "e32b2859e6dfda49f9a337bfc71b5cb4",
+    "url": "/portfolio/static/media/JavaScript and jQuery.e32b2859.pdf"
+  },
+  {
+    "revision": "83694f81296c4229bb6a994684d8138e",
+    "url": "/portfolio/static/media/The Road to learn React.83694f81.pdf"
   },
   {
     "revision": "37aa312338dc431eefacd39f218905b2",
@@ -48,16 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/html-5.24845c5c.svg"
   },
   {
+    "revision": "b179f27791ca51774ae9c16076be4d0e",
+    "url": "/portfolio/static/media/javascript the definitive guide.b179f277.pdf"
+  },
+  {
     "revision": "87711407412494d529d45ee76167583c",
     "url": "/portfolio/static/media/javascript.87711407.svg"
   },
   {
-    "revision": "5198c2493bc73f15630054848c80cbbc",
-    "url": "/portfolio/static/media/js1.5198c249.jpg"
+    "revision": "da253db3bd33961051ea3396a0a83e77",
+    "url": "/portfolio/static/media/learningreact.da253db3.pdf"
   },
   {
-    "revision": "c851f58aded411a3076294b79239c0f4",
-    "url": "/portfolio/static/media/js2.c851f58a.jpg"
+    "revision": "b2fe86016a7b4e7496a9bd65f1c97ab9",
+    "url": "/portfolio/static/media/myphoto.b2fe8601.jpg"
   },
   {
     "revision": "e19994badf2c5806dd809f4c605b3e22",
@@ -70,14 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9a28da9f2a3fa419eb399e49f98cda39",
     "url": "/portfolio/static/media/react.9a28da9f.svg"
-  },
-  {
-    "revision": "86b2f9d9dd492adf523145aa4bc5203b",
-    "url": "/portfolio/static/media/reactjs1.86b2f9d9.png"
-  },
-  {
-    "revision": "f1893f711ca350ee9510364c8557bfbb",
-    "url": "/portfolio/static/media/reactjs2.f1893f71.png"
   },
   {
     "revision": "104aa045272c32d96797536c12108357",
